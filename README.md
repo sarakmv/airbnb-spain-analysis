@@ -1,37 +1,36 @@
 # Airbnb Spain Analysis: Data Exploration & Predictive Modeling
 
-Análisis completo de una base de datos de Airbnb en España con más de 20,000 registros, enfocado en limpieza de datos, análisis exploratorio (EDA), visualización y desarrollo de modelos predictivos para identificar las mejores zonas de inversión.
+Comprehensive analysis of an Airbnb dataset in Spain with over 20,000 records, focused on data cleaning, exploratory data analysis (EDA), visualization, and predictive modeling to identify the best investment areas.
 
-## Descripción
-Proyecto completo de análisis y modelado de precios de Airbnb en España con más de 20,000 registros.
+## Description  
+Complete project for analyzing and modeling Airbnb prices in Spain with more than 20,000 records.
 
-## Contenido
-- **Importación y limpieza de datos:**  
-  Varias tablas importadas y fusionadas (merge) por columnas y filas. Limpieza de datos erróneos y eliminación de outliers para asegurar la calidad del dataset.
+## Contents  
+- **Data Import and Cleaning:**  
+  Multiple tables imported and merged by columns and rows. Cleaning of erroneous data and outlier removal to ensure dataset quality.
 
-- **Análisis Exploratorio de Datos (EDA):**  
-  Visualizaciones estadísticas, mapas y gráficos para descubrir patrones de precio, estacionalidad y demanda por ciudad.
+- **Exploratory Data Analysis (EDA):**  
+  Statistical visualizations, maps, and charts to uncover price patterns, seasonality, and demand by city.
 
-- **Modelos predictivos:**  
-  Regresión lineal y Random Forest para identificar las mejores zonas de inversión.  
-  - Métricas clave: RMSE ~ 97, R² = 0.96
+- **Predictive Models:**  
+  Linear regression and Random Forest to identify the best investment zones.  
+  - Key metrics: RMSE ~ 97, R² = 0.96
 
-## Tecnologías y librerías
+## Technologies and Libraries  
 - Python  
 - pandas  
 - seaborn  
 - matplotlib  
 - scikit-learn
 
-## Resultados
-- Identificación de patrones clave en los datos  
-- Modelo predictivo robusto para precios de Airbnb  
-- Visualizaciones geográficas y estadísticas detalladas
+## Results  
+- Identification of key data patterns  
+- Robust predictive model for Airbnb prices  
+- Detailed geographic and statistical visualizations
 
 ---
 
-## Conclusión
+## Conclusion
 
-Este proyecto demuestra cómo aplicar técnicas de limpieza, visualización y machine learning para extraer insights valiosos y predecir precios en el mercado inmobiliario de Airbnb, destacando la importancia de la ubicación y características de la propiedad.
+This project demonstrates how to apply data cleaning, visualization, and machine learning techniques to extract valuable insights and predict prices in the Airbnb real estate market, highlighting the importance of location and property features.
 
----
